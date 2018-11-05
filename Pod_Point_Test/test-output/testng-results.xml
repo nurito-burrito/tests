@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40435" started-at="2018-11-04T23:34:16Z" finished-at="2018-11-04T23:34:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40435" started-at="2018-11-04T23:34:16Z" finished-at="2018-11-04T23:34:56Z">
+      <class name="checkoutTestNG.mitsubishiCheckoutTestNg">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="startBrowser" is-config="true" duration-ms="12005" started-at="2018-11-04T23:34:16Z" finished-at="2018-11-04T23:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:1, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="verifyHomepageTitle" duration-ms="16" started-at="2018-11-04T23:34:28Z" finished-at="2018-11-04T23:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="selectCarAndModel()[pri:2, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="selectCarAndModel" duration-ms="2853" started-at="2018-11-04T23:34:28Z" finished-at="2018-11-04T23:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCarAndModel -->
+        <test-method status="PASS" signature="checkTheBox()[pri:3, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="checkTheBox" duration-ms="3194" started-at="2018-11-04T23:34:31Z" finished-at="2018-11-04T23:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheBox -->
+        <test-method status="PASS" signature="selectConnectionType()[pri:4, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="selectConnectionType" duration-ms="2070" started-at="2018-11-04T23:34:34Z" finished-at="2018-11-04T23:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectConnectionType -->
+        <test-method status="PASS" signature="selectPowerRating()[pri:5, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="selectPowerRating" duration-ms="4472" started-at="2018-11-04T23:34:36Z" finished-at="2018-11-04T23:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPowerRating -->
+        <test-method status="PASS" signature="checkCompatibleExtras()[pri:6, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="checkCompatibleExtras" duration-ms="2229" started-at="2018-11-04T23:34:40Z" finished-at="2018-11-04T23:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibleExtras -->
+        <test-method status="PASS" signature="selectCompatibleExtras()[pri:7, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="selectCompatibleExtras" duration-ms="2155" started-at="2018-11-04T23:34:43Z" finished-at="2018-11-04T23:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCompatibleExtras -->
+        <test-method status="PASS" signature="testTotalPrice()[pri:8, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="testTotalPrice" duration-ms="10113" started-at="2018-11-04T23:34:45Z" finished-at="2018-11-04T23:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTotalPrice -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:checkoutTestNG.mitsubishiCheckoutTestNg@7dc7cbad]" name="terminateBrowser" is-config="true" duration-ms="1282" started-at="2018-11-04T23:34:55Z" finished-at="2018-11-04T23:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- checkoutTestNG.mitsubishiCheckoutTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
