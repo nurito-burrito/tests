@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="whiteBreadTestNg">
+
+ <test name="Scenario1" group-by-instances="true">
+ <classes>
+ <class name="com.whitebreadtest.tests.Scenario1" />
+ </classes>
+ </test>
+ 
+ <test name="Scenario2" group-by-instances="true">
+ <classes>
+ <class name="com.whitebreadtest.tests.Scenario2" />
+ </classes>
+ </test>
+ 
+</suite>
